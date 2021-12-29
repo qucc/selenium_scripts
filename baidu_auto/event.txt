@@ -1,0 +1,12 @@
+btn_enter
+nav_large_findtiger
+nav_thumb_findtiger
+btn_scanagain_wrong
+btn_camera_shoot01
+btn_camera_shoot02
+btn_backtohome
+btn_confirmphoto
+btn_redeem
+btn_downloadphoto
+btn_resetphoto
+btn_sharephoto
